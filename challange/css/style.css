@@ -1,0 +1,26 @@
+header{
+	background-color: red;
+	color : white;
+}
+/*.squer{
+	height: auto;
+	background-color: lightgreen;
+}
+
+.row{
+	min-height: 5em;
+	background-color: lightblue;
+}*/
+.thumbnail{
+	position: absolute;
+	top: 15px;
+	bottom: 0px;
+	left: 15px;
+	right: 0px;
+	text-align: center;
+	padding-top: calc(50% - 30px);
+}
+.dummy{
+	margin-top: 100%;
+
+}
